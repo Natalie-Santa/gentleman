@@ -1,0 +1,95 @@
+.serif {
+	font-family: serif;
+}
+.s-serif {
+	font-family: sans-serif;
+}
+header {
+	background: #352F34;
+}
+header p{
+	font-size: 30px;
+}
+
+header a {
+	padding: 20px 10px;
+	text-decoration: none;
+	color: white;
+	font-size: 9px;
+}
+header ul {
+	margin-top: 8px;
+	margin-left: 55px;
+}
+.gris {
+	background: #C5C6C8;
+	margin-top: -20px;
+}
+.white {
+	background: white;
+}
+.wordpress p:first-child {
+	color: #292C34;
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.wordpress {
+	margin-top: 20px;
+}
+
+.wordpress p {
+	font-size: 12px;
+	color: #686872;
+	margin-bottom: 20px;
+}
+.wordpress a {
+	background:  #686872;
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	font-size: 9px;
+	margin-left: -10px;
+	padding: 5px;
+}
+.wordpress img {
+	margin-left: 10px;
+}
+.lastest {
+	margin-top: -20px;
+	color: #686872;
+}
+.lastest li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+}
+.lastest a {
+	text-decoration: none;
+	color: #686872;
+	font-size: 9px;
+}
+.lastest p {
+	margin-left: 10px;
+	font-size: 15px;
+}
+.images {
+	margin-top: -20px;
+}
+.images p {
+	font-size: 10px;
+	color: #686872;
+	margin-top: 10px;
+}
+.images h5 {
+	color: #686872;
+	margin-top: 10px;
+}
+.images a {
+	background:  #686872;
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+}
